@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 2rem;
+    gap: 5%;
+    align-items: center;
+    min-height: 10vh;
+    padding: 1rem;
+    background-color: rgb(239, 151, 151);
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    color: #fff;
+    
+}
+
+.hero {
+    height: 90vh;
+    background-image: url(./assets/pexels-cottonbro-studio-10637404.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 3px 3px 3px black;
+}
+
+.hero h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+.hero button {
+    background-color: rgb(239, 151, 151);
+    border: 3px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    padding: 1rem;
+    border-radius: 3px;
+}
+
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    background-color:rgb(239, 151, 151);
+    color: #fff;
+    text-shadow: 3px 3px 3px rgb(78, 77, 77);
+}
+
+.intro img {
+    width: 100%;
+}
+
+.intro-img {
+    flex: 1 1 30rem;
+}
+
+.intro-text {
+    flex: 1 1 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8rem;
+}
+
+.intro-text p {
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+}
