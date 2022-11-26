@@ -9,8 +9,8 @@
 
 </div>
 <p align="center">
-  <img src="./assets/project.jpeg" width="350" title="hover text">
-  <img src="./assets/project1.jpeg" width="350" alt="accessibility text">
+  <img src="./assets/project.jpeg" width="750" title="hover text">
+  <img src="./assets/project1.jpeg" width="750" alt="accessibility text">
 </p>
 
 <!-- TABLE OF CONTENTS -->
