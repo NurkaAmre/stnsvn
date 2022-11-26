@@ -11,6 +11,8 @@
 
 <img src="project.jpeg" alt="logo" width="140"  height="auto" />
 <img src="project1.jpeg" alt="logo" width="140"  height="auto" />
+![Screenshot](project.jpeg)
+![Screenshot](project1.jpeg)
 
 <!-- TABLE OF CONTENTS -->
 
