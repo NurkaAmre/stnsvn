@@ -8,11 +8,10 @@
   <h3><b>Microverse README Template</b></h3>
 
 </div>
-
-<img src="project.jpeg" alt="logo" width="140"  height="auto" />
-<img src="project1.jpeg" alt="logo" width="140"  height="auto" />
-![Screenshot](project.jpeg)
-![Screenshot](project1.jpeg)
+<p align="center">
+  <img src="./assets/project.jpeg" width="350" title="hover text">
+  <img src="./assets/project1.jpeg" width="350" alt="accessibility text">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 
